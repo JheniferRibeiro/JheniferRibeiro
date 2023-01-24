@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Jhenifer Ribeiro.
 
 - 🌱 Estudando CSharp e HTML
-- 📫 Contate-me no e-mail: jheniferribeirolopes_@hotmail.com ou WhatsApp: (11) 9-9246-4874
+- 📫 Contate-me no e-mail: jheniferribeirolopes_@hotmail.com
 - 😄 Pronomes: Ela/dela
 
 <div align="center">
