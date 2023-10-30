@@ -19,7 +19,6 @@
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=&logoColor=purple&labelColor=0D1117)&nbsp;
 
-##
 
 ### Other Knowledge:
 
@@ -27,7 +26,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
 
-##
   
 ### Studying in this moment:
 
